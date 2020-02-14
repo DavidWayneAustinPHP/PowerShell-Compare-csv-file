@@ -1,0 +1,6 @@
+"FirstName","LastName","UserName"
+$item.Name,$item.Surname,$item.DOB
+John
+Austin
+12022020
+@{Name=John; Surname=Austin; DOB=12022020}.Name,@{Name=John; Surname=Austin; DOB=12022020}.Surname,@{Name=John; Surname=Austin; DOB=12022020}.DOB
